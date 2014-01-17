@@ -3,7 +3,7 @@ Grove - Infrared Temperature Sensor
 
 This is an Arduino example for [Grove - Infrared Temperature Sensor](http://www.seeedstudio.com/depot/grove-infrared-temperature-sensor-p-1058.html?cPath=25_27)
 
-[![Grove - Infrared Temperature Sensor](http://www.seeedstudio.com/depot/bmz_cache/7/778272722734a8c4e5ceaba224ab14c9.image.114x85.jpg](http://www.seeedstudio.com/depot/grove-infrared-temperature-sensor-p-1058.html?cPath=25_27)
+[![Grove - Infrared Temperature Sensor](http://www.seeedstudio.com/depot/bmz_cache/7/778272722734a8c4e5ceaba224ab14c9.image.114x85.jpg)](http://www.seeedstudio.com/depot/grove-infrared-temperature-sensor-p-1058.html?cPath=25_27)
 
 For more information, please refer to [wiki page](http://www.seeedstudio.com/wiki/Grove_-_Infrared_temperature_sensor).
 
